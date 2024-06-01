@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+.fav-music{
+    border: 4px solid green;
+}
+.arjit{
+    width: 25%;
+    background-color: blanchedalmond;
+    float: left;
+    padding: 20px;
+}
+.akash{
+    background-color: aquamarine;
+    width: 25%;
+    float: right;
+    padding: 20px;
+}
+.rohit{
+    width: 25%;
+    background-color: lightblue;
+    float: left;
+    padding: 20px;
+}
+.rahul{
+    width: 25%;
+    background-color: lightsalmon;
+    float: left;
+    padding: 20px;
+}
+.fav-music::after{
+    content: "";
+    display: block;
+    clear: both;
+}

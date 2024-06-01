@@ -1,0 +1,19 @@
+hr{
+    width: 500px;
+    margin-left: 0px;
+    border: 0.5px dashed black;
+}
+.class2{
+    box-sizing: border-box;
+    width: 500px;
+    background-color: lightcoral;
+    border: 10px solid red;
+    padding: 50px;
+}
+.class1{
+    width: 500px;
+    background-color: lightcoral;
+    border: 10px solid red;
+    padding: 50px;
+    margin-top: 10px;
+}

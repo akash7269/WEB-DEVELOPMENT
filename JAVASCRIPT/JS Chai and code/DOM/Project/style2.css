@@ -1,0 +1,24 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: gray;
+}
+.container{
+    text-align: center;
+}
+button{
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 0 12px;
+}
+#result{
+    color: #fff;
+    margin-top: 15px;
+    font-size: 20px;
+}
+#range{
+    color: #fff;
+    margin-top: 5px;
+    font-size: 5pxpx;
+}

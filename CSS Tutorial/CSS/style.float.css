@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+.fav-crickter{
+   border: 10px solid green;
+}
+.virat{
+    width: 25%;
+    background-color: lightcoral;
+    float: left;
+    padding: 20px;
+}
+.rohit{
+    width: 25%;
+    float: left;
+    background-color: lightgreen;
+    padding: 20px;
+}
+.rahul{
+    width: 25%;
+    float: left;
+    background-color: lightskyblue;
+    padding: 20px;
+}
+.hardik{
+    width: 25%;
+    float: left;
+    background-color: lightsalmon;
+    padding: 20px;
+}
+/* .clearfix{
+    clear: both;
+} */
+.fav-crickter::after{
+    content: "";
+    display: block;
+    clear: both;
+}

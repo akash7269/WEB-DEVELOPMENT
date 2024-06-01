@@ -1,0 +1,13 @@
+h1{
+    border: 4px dotted red ;
+    /* padding-left: 400px;
+    padding-top: 80px; */
+    /* padding: 80px; */
+    /* padding: 50px 370px; */
+    padding: 20px 400px 30px 300px;
+    /* margin: 100px; */
+    /* margin-top: 60px; */
+    width: 50px;
+    margin: 20px auto;
+    text-align: center;
+}
